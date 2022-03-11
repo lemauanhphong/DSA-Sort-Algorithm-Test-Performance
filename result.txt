@@ -1,0 +1,56 @@
+quicksort.cpp
+Test 0: 41.205ms
+Test 1: 41.074ms
+Test 2: 157.091ms
+Test 3: 157.161ms
+Test 4: 157.638ms
+Test 5: 155.482ms
+Test 6: 156.975ms
+Test 7: 161.758ms
+Test 8: 160.584ms
+Test 9: 156.113ms
+Average: 134.508ms
+
+
+heapsort.cpp
+Test 0: 265.554ms
+Test 1: 241.536ms
+Test 2: 343.705ms
+Test 3: 341.836ms
+Test 4: 341.408ms
+Test 5: 347.800ms
+Test 6: 351.404ms
+Test 7: 342.046ms
+Test 8: 343.412ms
+Test 9: 363.615ms
+Average: 328.232ms
+
+
+mergesort.cpp
+Test 0: 175.216ms
+Test 1: 188.210ms
+Test 2: 285.214ms
+Test 3: 383.729ms
+Test 4: 278.501ms
+Test 5: 321.392ms
+Test 6: 445.748ms
+Test 7: 362.325ms
+Test 8: 317.937ms
+Test 9: 424.138ms
+Average: 318.241ms
+
+
+stdsort.cpp
+Test 0: 192.621ms
+Test 1: 100.122ms
+Test 2: 167.390ms
+Test 3: 176.133ms
+Test 4: 159.624ms
+Test 5: 162.681ms
+Test 6: 190.093ms
+Test 7: 162.074ms
+Test 8: 158.280ms
+Test 9: 154.331ms
+Average: 162.335ms
+
+
